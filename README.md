@@ -22,11 +22,11 @@ Hér er kóði beint í verkefnið okkar:
 [Verkefnið](https://github.com/johannai13/INTOPrufa/blob/master/NIM.cpp)
 
 ## 4. Uppsettur hugbúnaður
-* Gimp 2.8.4 	GNU General Public Liecense 	version 3 	kóðann má finna hér: http://gimp.org/downloads/ 	
-* Gnome Terminal 3.6.1	   GNU General Public Liecense 	version 3 	kóðann má finna hér: http://bazaar.launchpad.net/~vcs-imports/gnome-terminal/master/files
+* Gimp 2.8.4 	[Smella hér til að finna kóðann fyrir Gimp](http://gimp.org/downloads/)	Liecense: GNU GENERAL PUBLIC LIECENSE 	version 3 	
+* Gnome Terminal 3.6.1	  [Smella hér til að finna kóðann fyrir Terminal](http://bazaar.launchpad.net/~vcs-imports/gnome-terminal/master/files) 	 GNU General Public Liecense 	Version 3
 
-* VLC Player  url:[Smella hér til að finna kóðann fyrir VLC](http://www.videolan.org/vlc/download-sources.html)  License: GNU GENERAL PUBLIC LICENCE Version 2
-* Linux   url:[Smella hér til að finna kóðann fyrir Linux](http://www.kernel.org)     License: GNU GENERAL PUBLIC LICENSE Version 2 
+* VLC Player  [Smella hér til að finna kóðann fyrir VLC](http://www.videolan.org/vlc/download-sources.html)  License: GNU GENERAL PUBLIC LICENSE Version 2
+* Linux   [Smella hér til að finna kóðann fyrir Linux](http://www.kernel.org)     License: GNU GENERAL PUBLIC LICENSE Version 2 
 
 
 ## 5. Unnið með Git (2. hluti)
