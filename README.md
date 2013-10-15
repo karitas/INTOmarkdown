@@ -4,7 +4,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Það tók þó nokkuð margar tilraunir að setja upp Ubuntu, við notuðumst við virtual box, það hafðist þó á endanum. Það hefði verið aðeins þægilegra að hafa þetta verkefni í viku þar sem okkur stóð til boða að fara í dæmatíma :'(. 
+
+![Skjáskot af linux að ræsast](http://i.imgur.com/UuyZs06.jpg?1)
 
 ## 2. Uppsetning á vim && git
 
@@ -17,6 +19,8 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
+* Gimp 2.8.4 	GNU General Public Liecense 	version 3 	kóðann má finna hér: http://gimp.org/downloads/ 	
+* Gnome Terminal 3.6.1	   GNU General Public Liecense 	version 3 	kóðann má finna hér: http://bazaar.launchpad.net/~vcs-imports/gnome-terminal/master/files
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
