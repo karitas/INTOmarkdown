@@ -21,8 +21,8 @@ Hér er kóði beint í verkefnið okkar:
 
 ## 4. Uppsettur hugbúnaður
 
-* VLC Player  url:[Smella hér til að finna kóðann fyrir VLC](http://www.videolan.org/vlc/download-sources.html)  license: GNU GENERAL PUBLIC LICENCE Version 2
-* Linux   url:[Smella hér til að finna kóðann fyrir Linux](http://www.kernel.com)     license: GNU GENERAL PUBLIC LICENSE Version 2 
+* VLC Player  url:[Smella hér til að finna kóðann fyrir VLC](http://www.videolan.org/vlc/download-sources.html)  License: GNU GENERAL PUBLIC LICENCE Version 2
+* Linux   url:[Smella hér til að finna kóðann fyrir Linux](http://www.kernel.org)     License: GNU GENERAL PUBLIC LICENSE Version 2 
 
 
 ## 5. Unnið með Git (2. hluti)
