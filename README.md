@@ -1,6 +1,8 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+* Karítas Ólafsdóttir
+* Jóhanna Dóra Ingólfsdóttir
+
 
 ## 1. Linux uppsetning
 
@@ -8,17 +10,20 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Það gekk mjög vel að setja upp vim og git. Lýsingarnar á myschool voru góðar fyrir það.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Það gekk vel að forka verkefnið.  Breytingarnar á kóðanum gengu líka vel enda var kóðinn í c++ sem við erum að læra á í forritun.  Það komu að vísu upp árekstrar en við löguðum þá :)
+Hér er kóði beint í verkefnið okkar:
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+[Verkefnið](https://github.com/johannai13/INTOPrufa/blob/master/NIM.cpp)
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+* VLC Player  url:[Smella hér til að finna kóðann fyrir VLC](http://www.videolan.org/vlc/download-sources.html)  license: GNU GENERAL PUBLIC LICENCE Version 2
+* Linux   url:[Smella hér til að finna kóðann fyrir Linux](http://www.kernel.com)     license: GNU GENERAL PUBLIC LICENSE Version 2 
+
 
 ## 5. Unnið með Git (2. hluti)
 
